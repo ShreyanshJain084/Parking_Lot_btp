@@ -41,3 +41,5 @@ We have divided the stakeholders of our website into four categories: Customers,
 
 1. **Check Vehicle Entry**: The manager will check whether the vehicle’s entry is already present before entering the parking lot. If an entry is found, the vehicle is allowed to enter. If not, the user is asked to pay the amount.
 2. **Check Dues Before Exit**: The manager will check whether the vehicle has any dues left before the vehicle leaves the parking lot.
+3. Before entering the parking lot, the manager will make sure the vehicle's entrance is already there. The car is permitted admission if one is discovered. Otherwise, the user is prompted to make the payment.
+4. Before the car departs the parking lot, the manager will see if there are any outstanding debts.
